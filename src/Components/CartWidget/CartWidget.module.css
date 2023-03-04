@@ -1,0 +1,7 @@
+.cartContainer{
+    width: 3.5rem;
+    height: auto;
+    margin: 1em;
+    background-color: white;
+    border-radius: 50%;
+}
